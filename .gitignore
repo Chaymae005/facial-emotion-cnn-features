@@ -1,0 +1,14 @@
+env/
+archive/
+HA/
+models/
+__pycache__/
+*.pyc
+*.rar
+*.pkl
+*.npy
+*.h5
+*.pth
+.env
+.ipynb_checkpoints/
+.DS_Store
